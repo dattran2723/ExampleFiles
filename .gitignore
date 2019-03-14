@@ -5,3 +5,4 @@
 /.vs/ExampleFile/v15/Server/sqlite3
 /ExampleFile/bin/Debug/netcoreapp2.2
 /ExampleFile/obj
+/.vs
